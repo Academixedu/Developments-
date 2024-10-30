@@ -1,16 +1,10 @@
 
 
-This guide provides two methods for implementing user authentication in a Spring Boot application:
-1. **Real-Time Authentication with a Database** (production-ready).
-2. **In-Memory Authentication Using HashMap** (for learning/testing purposes).
-
----
-
 ## 1. Real-Time Authentication with Database (Production-Ready)
 
 This approach uses **Spring Security**, **JWT (JSON Web Token)**, and **JPA with a database** for persistent user storage.
 
-## Step 1: Set Up Database with JPA
+### Step 1: Set Up Database with JPA
 
 ### 1) Define a `User` entity for storing user information in the database.
 
