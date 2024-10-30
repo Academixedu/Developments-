@@ -5,11 +5,11 @@
 This approach uses **Spring Security**, **JWT (JSON Web Token)**, and **JPA with a database** for persistent user storage.
 
 ## Dependencies
-### 1)Spring Web
-### 2) Spring Data JPA  
-### 3) Spring Security 
-### 4) JWT handling. 
-### 5) H2 Database dependency
+ 1)Spring Web
+ 2) Spring Data JPA  
+ 3) Spring Security 
+ 4) JWT handling. 
+ 5) H2 Database dependency
 
 ### Step 1: Set Up Database with JPA
 
